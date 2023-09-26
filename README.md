@@ -23,7 +23,7 @@ I added new columns to establish relationships between files.
 **Question 1: Trends in House Prices Across Canada**
 
 I began by uncovering the trends in house prices across Canada over the past four decades. To visualize this, I leveraged the "housing_price_index" data.  
-[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet1){:target="_blank" rel="noopener"}
+<a href="https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet1" target="_blank">Link to Visualization</a>
 
 **Question 2: Post-2005 Trend Comparison with Benchmark Prices**
 
