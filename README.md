@@ -28,46 +28,46 @@ I began by uncovering the trends in house prices across Canada over the past fou
 **Question 2: Post-2005 Trend Comparison with Benchmark Prices**
 
 Next, I compared the trends in house prices after 2005 with the actual benchmark prices, as found in the "real_estate_prices" table. This helped us identify any differences and potential insights into market dynamics.  
-[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet2){:target="_blank" rel="noopener"}
+[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet2)
 
 **Question 3: House Prices vs. Office Prices**
 
 Our third inquiry focused on the relative growth rates of house prices and office prices. I analyzed which one is becoming more expensive and at what pace.  
-[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet3){:target="_blank" rel="noopener"}
+[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet3)
 
 **Question 4: Creating a Canada Heatmap for Current House Prices Between Districts**
 
 To gain a geographical perspective, I created a heatmap of Canada, color-coded to represent current house prices across different districts.  
-[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet4){:target="_blank" rel="noopener"}
+[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet4)
 
 **Question 5: Comparing House Prices with Earnings**
 
 Our next exploration involved comparing the trend of house prices with earnings. I assessed whether people were allocating a higher percentage of their earnings to housing in 2014 compared to 2001.  
-[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet5){:target="_blank" rel="noopener"}
+[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet5)
 
 **Question 6: Did people spend more of their earnings in 2014 than they did in 2001?**
 
 In 2014, the average expenditure as a percentage of earnings stood at 119.03, whereas in 2001, it was at 106.73. This data indicates a notable increase in spending as a proportion of earnings over the 13-year period. Therefore, it can be concluded that people allocated a larger portion of their earnings towards expenses in 2014 compared to 2001. This shift may be reflective of changes in economic conditions, lifestyles, or consumer behavior during this timeframe.  
 **I used the Consumer Price Index (CPI) excluding food, energy, and the effect of indirect taxes as a key component in my analysis. This CPI measure excludes factors that are typically more volatile and subject to fluctuations, such as food and energy prices, and it also excludes the effect of indirect taxes.**  
-[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet6){:target="_blank" rel="noopener"}
+[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet6)
 
 **Question 7: Impact of Economic Crises**
 
 I evaluated the impact of four significant economic crises – Black Monday (1987), the early 1990s recession, the dot-com bubble (2000 - 2002), and the financial crisis (2007 - 2009) – on various economic indicators, including earnings, house prices, office prices, house constructions, and the consumer index.  
-[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet7){:target="_blank" rel="noopener"}
+[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet7)
 
 **Question 8: Predicting Consumer Index from Housing Price Index**
 
 Finally, I explored whether there is a predictive relationship between the consumer index and the housing price index by fitting a regression line between them.  
-[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet8){:target="_blank" rel="noopener"}
+[Link to Visualization](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Sheet8)
 
 Through visualizations, I aim to provide clear and insightful answers to these questions, shedding light on the dynamics of Canada's real estate market and its interaction with broader economic factors. Let's embark on this data-driven journey and uncover the stories that lie within the numbers.
 
 **Dashboards:**  
 
-[Dashboard1](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard1){:target="_blank" rel="noopener"}  
+[Dashboard1](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard1)  
   
-[Dashboard2](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard2){:target="_blank" rel="noopener"}  
+[Dashboard2](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard2)  
   
 ## Challenges
 While I had prior experience working with Tableau through various exercises, this project presented a unique set of challenges. However, it also underscored the incredible value of Tableau in the realm of data analysis.
