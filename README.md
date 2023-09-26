@@ -65,9 +65,9 @@ Through visualizations, I aim to provide clear and insightful answers to these q
 
 **Dashboards:**  
 
-[Dahsboard1](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard1)  
+[Dashboard1](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard1)  
   
-[Dahsboard2](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard2)  
+[Dashboard2](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard2)  
   
 ## Challenges
 While I had prior experience working with Tableau through various exercises, this project presented a unique set of challenges. However, it also underscored the incredible value of Tableau in the realm of data analysis.
