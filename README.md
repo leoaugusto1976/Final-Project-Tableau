@@ -63,6 +63,12 @@ Finally, I explored whether there is a predictive relationship between the consu
 
 Through visualizations, I aim to provide clear and insightful answers to these questions, shedding light on the dynamics of Canada's real estate market and its interaction with broader economic factors. Let's embark on this data-driven journey and uncover the stories that lie within the numbers.
 
+**Dashboards:**  
+
+[Dahsboard1](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard1)  
+  
+[Dahsboard2](https://public.tableau.com/app/profile/leo.fonseca/viz/Lighthouse-Final-Project/Dashboard2)  
+  
 ## Challenges
 While I had prior experience working with Tableau through various exercises, this project presented a unique set of challenges. However, it also underscored the incredible value of Tableau in the realm of data analysis.
 
